@@ -4,8 +4,15 @@
         <description><![CDATA[ERNESTO MOCK STUDIO]]></description>
         <link>https://thegrid.ai/ernesto-mock-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 04:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 18:12:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ernesto-mock-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gehry]]></title>
+            <description><![CDATA[<article><h1>Gehry</h1><p>The Flower at the Walt Disney Concert Hall</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc7b0a937373a5242ba51e81e5680878a4c0a834.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ernesto-mock-studio/892a07b8-f325-452d-99d8-da6e16b1f30a/index.html</link>
+            <guid isPermaLink="false">892a07b8-f325-452d-99d8-da6e16b1f30a</guid>
+            <pubDate>Fri, 19 Aug 2016 18:12:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72006c9c-2f37-44f8-bb5b-ad1b83a768ae.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ernesto-mock-studio/e5a73c00-cfa5-423f-9128-f26b6fac0be2/index.html</link>
             <guid isPermaLink="false">e5a73c00-cfa5-423f-9128-f26b6fac0be2</guid>
             <pubDate>Wed, 15 Jun 2016 03:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aee6e1a-f234-467a-aca3-26c99022c987.jpg">]]></description>
-            <link>https://thegrid.ai/ernesto-mock-studio/24cb138c-878c-4619-9ed7-5d501ac95ccf/index.html</link>
-            <guid isPermaLink="false">24cb138c-878c-4619-9ed7-5d501ac95ccf</guid>
-            <pubDate>Wed, 15 Jun 2016 03:44:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
