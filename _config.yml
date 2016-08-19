@@ -1,14 +1,14 @@
-layout_spectrum: 0.5147257151547819
-typography_spectrum: 0.5227260745596141
+layout_spectrum: 0.06416106992401183
+typography_spectrum: 0.8008618392050266
 color:
-  brandStrength: 0.7892792695201933
-  lightness: 0.792304822942242
-  saturation: 0.33859841665253043
-  rhythmicContrast: 0.04127751640044153
+  brandStrength: 0.4791571341920644
+  lightness: 0.4119243724271655
+  saturation: 0.8873553336597979
+  rhythmicContrast: 0.9321385095827281
   brandColors:
-    - '#B4AF91'
-    - '#787746'
-    - '#40411E'
-    - '#32331D'
-    - '#C03000'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: ERNESTO MOCK STUDIO
